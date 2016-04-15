@@ -3,6 +3,10 @@
 
     img {}
 
-    h1 {color:#006666}
+    h1 {color:#006666;
+    text-align: center
+}
 
-    ul {color: #008080}
+    ul {color: #008080;
+
+    }
